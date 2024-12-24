@@ -39,8 +39,8 @@ const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 // L.Routing.control({
 //     waypoints: [
-//         L.latLng(25.7786, -80.4180),
-//         L.latLng(25.9886, -80.2962)
+//         L.latLng(25.7786, -80.2962),
+//         L.latLng(25.9873, -80.1256)
 //     ],
 //     routeWhileDragging: true
 // }).addTo(map);
